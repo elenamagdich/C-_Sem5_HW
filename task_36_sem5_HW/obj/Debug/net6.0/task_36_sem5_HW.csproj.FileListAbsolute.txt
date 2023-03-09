@@ -1,0 +1,15 @@
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\obj\Debug\net6.0\task_36_sem5_HW.csproj.AssemblyReference.cache
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\obj\Debug\net6.0\task_36_sem5_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\obj\Debug\net6.0\task_36_sem5_HW.AssemblyInfoInputs.cache
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\obj\Debug\net6.0\task_36_sem5_HW.AssemblyInfo.cs
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\obj\Debug\net6.0\task_36_sem5_HW.csproj.CoreCompileInputs.cache
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\bin\Debug\net6.0\task_36_sem5_HW.exe
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\bin\Debug\net6.0\task_36_sem5_HW.deps.json
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\bin\Debug\net6.0\task_36_sem5_HW.runtimeconfig.json
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\bin\Debug\net6.0\task_36_sem5_HW.dll
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\bin\Debug\net6.0\task_36_sem5_HW.pdb
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\obj\Debug\net6.0\task_36_sem5_HW.dll
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\obj\Debug\net6.0\refint\task_36_sem5_HW.dll
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\obj\Debug\net6.0\task_36_sem5_HW.pdb
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\obj\Debug\net6.0\task_36_sem5_HW.genruntimeconfig.cache
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5\task_36_sem5_HW\obj\Debug\net6.0\ref\task_36_sem5_HW.dll
